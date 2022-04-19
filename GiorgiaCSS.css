@@ -1,0 +1,42 @@
+body {
+  font-family: Helvetica; 
+  text-align: left;
+
+}
+h1 {
+  text-align: center;
+  color: violet;
+}
+a {
+  color:#423189
+}
+
+
+
+
+
+img {
+  width: 180px;
+}
+#flex-container {
+   border: 3px solid pink;
+    background-color: lavenderblush;
+  display: flex;
+  justify-content: space-between;
+  height: 180px;
+  
+}
+#indentazione{
+  text-align: left;
+   border: 3px solid purple;
+  
+}
+h3{
+   color: purple;
+}
+h4{
+  color: purple;
+}
+strong{
+  color:#423189
+}
